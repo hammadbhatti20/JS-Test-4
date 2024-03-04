@@ -87,3 +87,31 @@
 //Q15
 // var product = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
 // document.write(`<select> <option> ${product[0]} </option> <option> ${product[1]} </option> <option> ${product[2]} </option> <option> ${product[3]} </option> <option> ${product[4]} </option> <option> ${product[5]} </option> </select>`);
+
+
+//Chapter 15 (Array I)
+
+//Q1
+// var arr = [];
+
+//Q2
+// var str = ["Karachi"];
+
+//Q3
+// var alphabet = ["h","i","j","k"];
+// alert(alphabet[2]);
+
+//Q4
+// var alphabetNew = ["h","i","j","k","l","m","n","o"];
+// console.log(alphabetNew.length);
+
+//Q5
+// var arrNew = ["ONE"];
+// console.log(arrNew);
+// arrNew.push("Second");
+// console.log(arrNew);
+// alert(arrNew[1])
+
+
+//Chapter 16 (Array II)
+
