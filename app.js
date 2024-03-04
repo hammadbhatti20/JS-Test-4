@@ -65,7 +65,25 @@
 //   document.write("</br>","Ordered Scores of Students :", studentScores);
 
 //Q11
-var cities = ["Karachi","Lahore","Islamabad","Quetta","Peshawar"];
-document.write(`Cities list: </br> ${cities}`);
-var selectedCities = cities.slice(2,4);
-document.write(`</br> </br >Selected cities list: </br> ${selectedCities}`);
+// var cities = ["Karachi","Lahore","Islamabad","Quetta","Peshawar"];
+// document.write(`Cities list: </br> ${cities}`);
+// var selectedCities = cities.slice(2,4);
+// document.write(`</br> </br >Selected cities list: </br> ${selectedCities}`);
+
+//Q12
+// var arr = ["This ","is ","my ","cat"];
+// document.write(`Array: </br> ${arr} </br> </br>`);
+// var singleString = arr.join("");
+// document.write(`String: </br> ${singleString}`);
+
+//Q13
+// var fifoArray = ["keyboard","mouse","printer","monitor"];
+// document.write(`Devices: </br> ${fifoArray} </br> </br> Out: </br> ${fifoArray[0]} </br> Out: </br> ${fifoArray[1]} </br> Out: </br> ${fifoArray[2]} </br> Out: </br> ${fifoArray[3]}`);
+
+//Q14
+// var lifoArray = ["keyboard","mouse","printer","monitor"];
+// document.write(`Devices: </br> ${lifoArray} </br> </br> Out: </br> ${lifoArray[3]} </br> Out: </br> ${lifoArray[2]} </br> Out: </br> ${lifoArray[1]} </br> Out: </br> ${lifoArray[0]}`);
+
+//Q15
+// var product = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
+// document.write(`<select> <option> ${product[0]} </option> <option> ${product[1]} </option> <option> ${product[2]} </option> <option> ${product[3]} </option> <option> ${product[4]} </option> <option> ${product[5]} </option> </select>`);
