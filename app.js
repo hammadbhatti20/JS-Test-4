@@ -115,3 +115,74 @@
 
 //Chapter 16 (Array II)
 
+//Q1
+// var str = ["Hockey"];
+// console.log(str);
+// str.push("Football");
+// alert("Array After Last Element Add ",str);
+
+//Q2
+// var alphabet = ["h","i","j","k"];
+// console.log(alphabet);
+// alphabet.pop();
+// console.log(alphabet);
+
+//Q3
+// var alphabet = ["h","i","j","k"];
+// console.log(alphabet);
+// alphabet.push(50);
+// console.log(alphabet);
+
+
+//Chapter 16 (Array III)
+
+//Q1
+// var sizes = ["S","M","XL","XXL","XXXL"];
+// console.log(sizes);
+// sizes.shift();
+// console.log(sizes);
+
+//Q2
+// var sizes = ["S","M","XL","XXL","XXXL"];
+// console.log(sizes);
+// sizes.unshift(20,30);
+// console.log(sizes);
+
+//Q3
+// var arr = [50];
+// console.log(arr);
+// arr.unshift(20);
+// console.log(arr);
+// alert("new first element.");
+
+//Q4
+// var sizes = ["S","M","XL","XXL","XXXL"];
+// console.log(sizes);
+// sizes.splice(2,0,"L");
+// console.log(sizes);
+
+//Q5
+// var sizes = ["S","M","XL","XXL","XXXL"];
+// console.log(sizes);
+// var newSizes = sizes.slice(0,3);
+// console.log(newSizes);
+
+//Q6
+// var pets = ["dog","cat","ox","duck","frog"];
+// console.log(pets);
+// pets.splice(1,0,"wolf","deer");
+// console.log(pets);
+// pets.splice(3,3);
+// console.log(pets);
+
+//Q7
+// var pets = ["dog","cat","ox","duck","frog"];
+// console.log(pets);
+// pets.splice(1,2);
+// console.log(pets);
+
+//Q8
+// var pets = ["dog","cat","ox","duck","frog","flea"];
+// console.log(pets);
+// var pets = pets.slice(3,5);
+// console.log(pets);
